@@ -6,13 +6,9 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "price": 100000,
       "medias": [
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150"
+        "https://m.media-amazon.com/images/I/71VxRe7HeKL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71NZxcWS+rS._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/611DJJPEBSL._SX679_.jpg"
       ],
       "variants": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"]
     },
@@ -22,13 +18,9 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "price": 200000,
       "medias": [
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150"
+        "https://m.media-amazon.com/images/I/61-wXlQa5kL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61Y8L4qW5LL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61m3qUkDObL._SY695_.jpg"
       ],
       "variants": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"]
     },
@@ -38,13 +30,8 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "price": 300000,
       "medias": [
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150"
+        "https://images.pexels.com/photos/1499477/pexels-photo-1499477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       ],
       "variants": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"]
     },
@@ -54,13 +41,8 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "price": 400000,
       "medias": [
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150",
-        "http://placehold.it/360x150"
+        "https://images.pexels.com/photos/1261422/pexels-photo-1261422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       ],
       "variants": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"]
     }
